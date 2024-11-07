@@ -20,4 +20,4 @@ This is an Android app that allows users to search for movies using the OMDb API
 ## How to Run
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/yourusername/movie-search-app.git
+   git clone https://github.com/ThwetHmueNyein30/movie-search-app.git
